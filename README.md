@@ -2,7 +2,7 @@
 
 ## Overview
 
-QuickPet is a ChatTriggers mod for Hypixel Skyblock that allows players to quickly summon their pets with a simple command. By typing `/quickpet [pet name]`, you can automatically summon the desired pet without navigating through menus.
+QuickPet is a ChatTriggers mod for Hypixel Skyblock that allows players to quickly summon their pets with a simple command. By typing `/quickpet [pet name]`, you can automatically summon the desired pet without navigating through menus. QuickPet only searches through the first page of the pets menu, so if you have a pet that is further down the list, simply favorite it and it will be brought to the front of the list.
 
 ## Features
 
