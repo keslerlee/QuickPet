@@ -1,0 +1,7 @@
+{
+    "name": "QuickPet",
+    "creator": "Kesler",
+    "description": "Summon Your Pets Using Chat Commands In Hypixel Skyblock",
+    "version": "1",
+    "entry": "index.js"
+}
