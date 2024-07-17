@@ -28,4 +28,4 @@ QuickPet is a ChatTriggers mod for Hypixel Skyblock that allows players to quick
    - Clone or download the QuickPet repository from [GitHub](https://github.com/keslerlee/QuickPet).
 
 4. **Move Files:**
-   - Place the QuickPet files into the ChatTriggers modules folder located in `.minecraft/ChatTriggers/modules`.
+   - Place the QuickPet files into the ChatTriggers modules folder located in `.minecraft/config/ChatTriggers/modules`.
